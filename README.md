@@ -1,2 +1,3 @@
 # dotfiles
-some of my configs, filed away as though they were in my `$HOME` 🏡
+My config broke when I added a new plugin, and now I cant fix it.
+This is my last resort.
